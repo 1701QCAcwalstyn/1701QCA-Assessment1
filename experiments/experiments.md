@@ -74,6 +74,41 @@ The second loop, while the speed of the motor is less than 1023, will write P0 t
 
 This experiment could be the basis of a real world application such as (insert something here).
 
+### Experiment 5: Using the accelerometer to control motor speed ###
+
+(Replace this with the experiment name)
+
+#### Photo of completed project ####
+In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
+![Image](missingimage.png)
+
+(Insert a caption here)
+
+#### Reflection ####
+
+In this experiment, something new to me was or something I learned was (insert something here).
+
+This experiment could be the basis of a real world application such as (insert something here).
+
+### Experiment 6: Setting the tone with a piezo buzzer ###
+
+
+#### Photo of completed project ####
+In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
+![Image](ex 6.jpg)
+
+<video src="20200321_094401.mp4" poster="20200321_094357.jpg" width="220" height="300" controls preload></video>
+
+(Insert a caption here)
+
+#### Reflection ####
+
+In this experiment, I was first introduced to the piezo buzzer. What's really interesting about this is how you can control the tone of the buzzer with the micro:bit. I also enjoyed experimenting with the different patterns available.
+
+I could see this buzzer being useful as a form of audible feedback for things like buttons. It could also be used for an alarm, where the clock reaching a certain time would activate the buzzer. If you did't have access to an actual digital clock, you could also use a counter to the same effect. 
+
 ### Experiment name ###
 
 (Replace this with the experiment name)
@@ -90,4 +125,5 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 In this experiment, something new to me was or something I learned was (insert something here).
 
 This experiment could be the basis of a real world application such as (insert something here).
+
 
