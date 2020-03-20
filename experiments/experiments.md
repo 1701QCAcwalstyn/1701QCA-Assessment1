@@ -26,7 +26,7 @@ As for real world application, this experiment could relate to keyboards, where 
 #### Photo of completed project ####
 
 ![Image](ex 2.JPG)
-<video src="20200314_191809.mp4" poster="nightlight.jpg" width="320" height="200" controls preload></video>
+<video src="20200314_191809.mp4" poster="nightlight.jpg" width="220" height="300" controls preload></video>
 
 
 
@@ -41,16 +41,14 @@ The amount of voltage on a pin is read and converted to a number between 0 and 1
 
 This experiment could apply to phones that use light sensors to dim or brighten a screen automatically according to the light level it detects. They could also be used to gather data about how much light is in a certain area, where a counter records every time the light level exceeds a certain threshold. It could also be used to detect the absense of light due to shadow. For example, a phototransistor using a similar LED display could display an image every time a box is opened, because opening the box would expose the phototransistor to the light.
 
-### Experiment name ###
+### Experiment 3: dimming an LED using a potentiometer###
 
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](ex 2.JPG)
 
-(Insert a caption here)
+<video src="20200314_182846.mp4" poster="20200314_182811.jpg" width="220" height="300" controls preload></video>
 
 #### Reflection ####
 
