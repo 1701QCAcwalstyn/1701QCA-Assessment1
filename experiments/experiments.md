@@ -10,8 +10,6 @@
 
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
-
 ![Image](ex 1.JPG)
 
 (Insert a caption here)
@@ -22,14 +20,14 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Experiment 2: Using a light sensor & analog inputs ###
 
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](ex 2.JPG)
+
+See video at: https://vimeo.com/399056435
 
 (Insert a caption here)
 
