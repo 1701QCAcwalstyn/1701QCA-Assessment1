@@ -12,7 +12,7 @@
 #### Photo of completed project ####
 ![Image](ex 1.JPG)
 
-(Insert a caption here)
+micro:bit will display a :) emoji when button A is pressed, and will write the words, "hello!" when button B is pressed.
 
 #### Reflection ####
 
