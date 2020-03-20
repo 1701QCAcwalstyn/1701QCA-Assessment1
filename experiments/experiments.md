@@ -32,7 +32,9 @@ As for real world application, this experiment could relate to keyboards, where 
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I was first introduced to the breadboard, along with phototransistors, resistors, and jumper wires. I also learnt about analog readings.
+To summarise what I learnt:
+A phototransistor can detect light levels. There is also a small phototransistor on the micro:bit. The phototransistor will conduct electricity better or worse corresponding to the light levels. The more light on the phototransistor, the more electricity in can conduct. 
 
 This experiment could be the basis of a real world application such as (insert something here).
 
