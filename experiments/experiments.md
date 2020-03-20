@@ -16,9 +16,9 @@
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+This experiment was really useful to familiarise and introduce me to the micro:bit. I got a feel for how the interface works and tried out some of the options available to me. I learnt that the micro:bit follows the idea of inputs and outputs, if you do A, B will happen. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+As for real world application, this experiment could relate to keyboards, where you press a key and a letter is displayed, or a scanner at a store where a barcode is scanned and an item is registered. 
 
 ### Experiment 2: Using a light sensor & analog inputs ###
 
