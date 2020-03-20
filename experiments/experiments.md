@@ -52,9 +52,9 @@ This experiment could apply to phones that use light sensors to dim or brighten 
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I learnt how the potentiometer works and how to have two loops working concurrently. The potentiometer can conduct voltage at varying degrees by turning the dial, doing so by changing the bursts of voltage it conducts. One of the two loops remembers whether or not the light is on (with 0 meaning off and 1 meaning on) using the button (connected to P0). The second loop then, if the light is on, writes P2 (the LED) to whatever voltage the potentiometre is conducting. If the light is off, the display of the LED goes to 0 (off).
 
-This experiment could be the basis of a real world application such as (insert something here).
+Potentiometres could be used with dimming lights, but also controlling volume on things like radios. This can also work with the brightness of devices.
 
 ### Experiment name ###
 
