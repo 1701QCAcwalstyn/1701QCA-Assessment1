@@ -56,20 +56,21 @@ In this experiment, I learnt how the potentiometer works and how to have two loo
 
 Potentiometres could be used with dimming lights, but also controlling volume on things like radios. This can also work with the brightness of devices.
 
-### Experiment name ###
+### Experiment 4: Using a transistor to drive a motor ###
 
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](ex 4.jpg)
 
 (Insert a caption here)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+This experiment introduced me to motors. Motors maintain their speed via a 'duty cycle', where at very high speeds, the motor will be activated at either 3V or 0V at differentiating times. For example, to speed the motor up, the transistor will be left on for a slightly longer time than it is off. 
+The second loop, while the speed of the motor is less than 1023, will write P0 to the 'duty' variable and then set the variable to be duty+1, and then pause. This basically means the speed of the motor will increase by 1, pause for 10ms, and do so again continually until it reaches 1023, and will then decrease by 1 until it is less than 1023 and the loop will continue.
 
 This experiment could be the basis of a real world application such as (insert something here).
 
