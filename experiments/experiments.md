@@ -26,8 +26,7 @@ As for real world application, this experiment could relate to keyboards, where 
 #### Photo of completed project ####
 
 ![Image](ex 2.JPG)
-
-See video at: https://vimeo.com/399056435
+<video src="20200314_191809.mp4" poster="nightlight.jpg" width="320" height="200" controls preload></video>
 
 (Insert a caption here)
 
