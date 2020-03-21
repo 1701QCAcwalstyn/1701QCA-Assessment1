@@ -4,10 +4,11 @@
 
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
-## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
+## Temperature gauge ##
 
 ## Related projects ##
+
+
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
@@ -15,8 +16,50 @@
 
 (Insert URL to project)
 
-![Image](missingimage.png)
+![Image](mug.jpg)
 
+This is a relatively simple product, but it still is useful to see how one can apply a gauge to different products. This product seems to tell the user what the temperature of the drink is before the user drinks it. This temperature gauge would apply well to a kettle, to see how long it takes until boiling.
+
+### Related project 2 ###
+Temperature Necklace
+
+https://www.hackster.io/Tahani2016/temperature-necklace-4153b6
+
+
+![Image](1c.jfif)
+
+### Related project 3 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](mug.jpg)
+
+This project is related to mine because (insert reasons here).
+### Related project 4 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](mug.jpg)
+
+This project is related to mine because (insert reasons here).
+### Related project 5 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](mug.jpg)
+
+This project is related to mine because (insert reasons here).
+### Related project 6 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](mug.jpg)
+
+This project is related to mine because (insert reasons here).
 This project is related to mine because (insert reasons here).
 
 ## Reading reflections ##
