@@ -109,9 +109,8 @@ In this experiment, I was first introduced to the piezo buzzer. What's really in
 
 I could see this buzzer being useful as a form of audible feedback for things like buttons. It could also be used for an alarm, where the clock reaching a certain time would activate the buzzer. If you did't have access to an actual digital clock, you could also use a counter to the same effect. 
 
-### Experiment name ###
+### Experiment 7: Wind power ###
 
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -125,5 +124,23 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 In this experiment, something new to me was or something I learned was (insert something here).
 
 This experiment could be the basis of a real world application such as (insert something here).
+
+
+### Experiment 8: Making a game using the compass ###
+
+
+#### Photo of completed project ####
+In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
+![Image](ex 8 p1.jpg)
+![Image](ex 8 p2.jpg)
+
+<video src="20200321_104407.mp4" poster="20200321_104355.jpg" width="220" height="300" controls preload></video>
+#### Reflection ####
+
+In this experiment, I had some experience with working in javascript. I learnt just how particular you need to be with writing it! I also found that the 'Math.random(360)' didn't work, so after looking at the information for this experiment online, I found that I could use 'Math.randomRange (0, 360)' instead. This one I found surprisingly easy to understand. I learnt about the 'absolute' function, which just means all integers are positive. The way the light goes faster or slower depending on how large the difference was between the goal and the angle of the micro:bit was really interesting. 
+
+This experiment could absolutely be the basis of a toy. It reminds me of Furbys where they would eventually turn evil if you held them upside down for too long. The compass would be useful in phones for apps that use maps, or GPS navigation equipment.
+
 
 
