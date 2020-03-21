@@ -1,6 +1,5 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
 
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
@@ -12,7 +11,7 @@
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+
 
 (Insert URL to project)
 
@@ -27,6 +26,8 @@ https://www.hackster.io/Tahani2016/temperature-necklace-4153b6
 
 
 ![Image](1c.jfif)
+
+I really like this. It combines the temperature detection with a cool visual glow from the necklace. The project really plays into the idea of a magical necklace, and makes the object very appealing. The necklace itself also looks fantastic and works wonderfully with the fantasy theme. 
 
 ### Related project 3 ###
 (Insert name of project)
