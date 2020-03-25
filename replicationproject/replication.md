@@ -30,21 +30,22 @@ https://www.hackster.io/Tahani2016/temperature-necklace-4153b6
 I really like this. It combines the temperature detection with a cool visual glow from the necklace. The project really plays into the idea of a magical necklace, and makes the object very appealing. The necklace itself also looks fantastic and works wonderfully with the fantasy theme. 
 
 ### Related project 3 ###
-(Insert name of project)
+Indoor NeoPixel Thermometer 
 
-(Insert URL to project)
+https://create.arduino.cc/projecthub/hackerEsk/indoor-neopixel-thermometer-64f22e?ref=tag&ref_id=temperature&offset=56
 
 ![Image](mug.jpg)
 
 This project is related to mine because (insert reasons here).
 ### Related project 4 ###
-(Insert name of project)
+Baby G watch
 
 (Insert URL to project)
 
-![Image](mug.jpg)
+![Image](baby g watch.jpg)
 
-This project is related to mine because (insert reasons here).
+When I was in primary school one of my friends had one of these things and I was *obsessed* with it. When you pressed a button, a random animal showed up. There was nothing I found more entertaining, which possibly said more about me than the watch. Regardless, I think there's something interesting there about displays that typically don't show fun things being able to do so when you press a button. I've noticed the micro:bit includes various prebuilt emojis, so perhaps I could use them.
+
 ### Related project 5 ###
 (Insert name of project)
 
