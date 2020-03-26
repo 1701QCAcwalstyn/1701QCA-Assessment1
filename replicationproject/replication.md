@@ -48,21 +48,29 @@ Baby G watch
 When I was in primary school one of my friends had one of these things and I was *obsessed* with it. When you pressed a button, a random animal showed up. There was nothing I found more entertaining, which possibly said more about me than the watch. Regardless, I think there's something interesting there about displays that typically don't show fun things being able to do so when you press a button. I've noticed the micro:bit includes various prebuilt emojis, so perhaps I could use them.
 
 ### Related project 5 ###
-(Insert name of project)
+Weather Wand
 
-(Insert URL to project)
+https://create.arduino.cc/projecthub/Dan/weather-wand-c100cb?ref=tag&ref_id=temperature&offset=59
 
-![Image](mug.jpg)
+![Image](weather wand.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses temperature readings, but in a really interesting and creative way. In its description, the creator mentions the project being: "[A way] to make the invisible visible." The project involves a Neopixel LED attached to a stick, which the creator used to draw patterns in the air. However, a temperature sensor attached also to the stick detected the temperature, and this was turned into a value that created the colour of the stick. The creator then drew patterns in the air with it. I like the use of the Neopixels, and it's making me consider what I can do with light and temperature. 
 ### Related project 6 ###
+Traffic Lights
+
+https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard?view=all
+
+![Image](mug.jpg)
+
+This project is related to mine because I am now planning on using three lights in a similar format. I have replicated this project as a beginning platform for my project to evolve from. 
+
+### Related project 7 ###
 (Insert name of project)
 
 (Insert URL to project)
 
 ![Image](mug.jpg)
 
-This project is related to mine because (insert reasons here).
 This project is related to mine because (insert reasons here).
 
 ## Reading reflections ##
