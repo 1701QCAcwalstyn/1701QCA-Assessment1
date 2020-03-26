@@ -11,9 +11,9 @@
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
+Heated Travel Mug
 
-
-(Insert URL to project)
+https://www.summitracing.com/parts/prn-pi-4121red
 
 ![Image](mug.jpg)
 
@@ -36,7 +36,8 @@ https://create.arduino.cc/projecthub/hackerEsk/indoor-neopixel-thermometer-64f22
 
 ![Image](mug.jpg)
 
-This project is related to mine because (insert reasons here).
+This is a different form of temperature gauge project using similar technology to the micro:bit. I like the idea of using neopixels as an interesting visual way to communicate temperature. 
+Update as of 18/03/2020: Since I am unable to come into class to use neopixels, and will be moving back to the Sunshine Coast next week, it is unlikely I will be able to procude these, so I'll have to use something else. However, I do really like the idea of a visual demonstration of temperature using lights, so perhaps I could find a way to use the LEDs that come with the micro:bit. 
 ### Related project 4 ###
 Baby G watch
 
@@ -113,10 +114,27 @@ This project is related to mine because (insert reasons here).
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
+However, due to a change in circumstances I no longer had access to alligator clips, so I had to repurpose my design to either include the micro:bit at the
+
+At this point I realised 
+
 ![Image](missingimage.png)
 
 *Include screenshots of the code you have used.*
+https://forum.micropython.org/viewtopic.php?t=2210
+Whilst I didn't understand everything in this forum discussion, which was talking about micropython, the initial poster had a similar problem with the three LEDs randomly displaying. Whilst I couldn't find a complete solution, the contributors did mention that the problem likely had something to do with the pins, so I'm going to take a closer look at those.
 
+The only thing differentiating this project electronically from the traffic lights - which were working - is the button (I haven't added the buzzer yet). So I'm going to remove the button from the micro:bit and the code to see if the lights function with my new code. If the problem is with the pins, the LED display problem shouldn't happen.
+
+After removing the button and button-related code, the LED problem went away but nothing seemed to happen at all, when the green light should be on. After taking another look at the code, however, I realised that the code was still expecting the 'on' variable to be 1, even though there was no way for it to become '1' because the button was removed.
+![Image](on statement.jpg)
+
+Success! The yellow light is on! I now know that the section of the code that comandeers the lights is working. To test the lights further, I put the whole thing close to the kettle which had just boiled, to feel the warm air near the kettle. The red light turned on, but the yellow light stayed on. I then opened the freezer door and held the micro:bit near the cold for a bit; the green light turned on, but the rest of the lights remained on, too. After I moved back to my table, the green light eventually turned off.
+What this tells me:
+ - I need to take another look at the coding for the temperatures. I must have made an error somewhere.
+ - The temperatures I've inputted are impractical, and will need to be changed. 
+ ![Image](pin mixup.jpg)
+ It turns out I accidentally selected 'P2' instead of 'P1'.
 ## Project outcome ##
 
 *Complete the following information.*
