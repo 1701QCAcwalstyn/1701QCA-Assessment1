@@ -237,8 +237,7 @@ It's done!!!!!!!!!!!
 Pre-Sensor
 ### Project description ###
 
-This is a sensor to prevent false positive smoke sensor alerts. Particularly useful for 
-
+This is a sensor to prevent false positive smoke sensor alerts. This project is most useful in laundries and bathrooms. If the dryer is in danger of overheating, or if you forget to turn on your fan for your shower, or don't even have one, this sensor will let you know without the massive noise and potential evacuation an actual smoke alarm threatens. This project uses both simple visual and auditory to alert danger.
 ### Showcase image ###
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
@@ -246,10 +245,8 @@ This is a sensor to prevent false positive smoke sensor alerts. Particularly use
 ![Image](20200327_170726.jpg)
 
 ### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+Its compact design means it can even fit in small spaces, making it unobtrusive and easily a part of the users lifestyle.
+![Image]20200327_200845.jpg)
 
 ### Reflection ###
 
