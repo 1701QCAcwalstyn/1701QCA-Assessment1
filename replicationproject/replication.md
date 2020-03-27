@@ -134,8 +134,8 @@ Here are some notes from my initial idea planning phase.
 
 
 Since I wanted to include three flashing lights, I searched for some projects that would use them to base my research off of. I ended up finding [this](https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard?view=all) one. I wrote more information about it in the project research above. I also replicated the project below.
-![Image](20200327_133130.jpg)
-![Image](20200327_133130.jpg)
+![Image](20200323_175004.jpg)
+![Image](traffic.jpg)
  
 My current idea is to create a temperature detector using LEDs as visual communicators of the temperature. This project will be a small, rectangular box, which will, in the final product, be made of a weather-proof plastic, and will have anti-slip stoppers. Its purpose is to be placed on an outdoor table or windowsill, in the view of a window, for a quick look at what the temperature is outside. This is mainly for choosing outfits - should I wear something warmer today, or something colder? I often find that, even though it is so easy to step outside onto a balcony, I usually just guess what the temperature is like and dress appropriately, causing many situations where I'd leave the house and end up sweating or freezing. This product has to be so simple that its easier than walking outside or looking the temperature up on Google, so I made it a simple visual cue. Whilst I only have certain coloured LEDs, in an idealised product the colours would be: red for warm, yellow for room temperature and blue for cold. However, I will substitute green in for blue. 
 I plan on using the micro:bit, breadboard and alligator clips to make the box as portable as possible. I will also need to design with the jumper cables attached to the breadboard in mind.
@@ -156,11 +156,17 @@ https://www.nfpa.org/Public-Education/Staying-safe/Safety-equipment/Smoke-alarms
 https://ifpmag.mdmpublishing.com/alarmed-about-steam/
 https://homeguides.sfgate.com/steam-make-smoke-detector-off-85036.html
 And here are my notes:
-![Image](notes2.jpg)
-![Image](notes1.jpg)
+![Image](notes 2.jpg)
+![Image](notes 1.jpg)
+
+Essentially,all I need to do now is modify the traffic lights to my project. This includes adding an on button and a buzzer.
+Code-wise, to make the on-off switch, I'm using the code from the micro:bit experiment kit.
+![Image](onoffcode.jpg)
+However, for some reason whenever I pressed the button, these three LEDs on the micro:bit would appear and the lights wouldn't work.
+![Image](20200326_095133.jpg)
 
 
-
+I did some research, and found this discussion:
 https://forum.micropython.org/viewtopic.php?t=2210
 Whilst I didn't understand everything in this forum discussion, which was talking about micropython, the initial poster had a similar problem with the three LEDs randomly displaying. Whilst I couldn't find a complete solution, the contributors did mention that the problem likely had something to do with the pins, so I'm going to take a closer look at those.
 
