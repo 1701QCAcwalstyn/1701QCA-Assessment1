@@ -122,11 +122,6 @@ I really liked how the reading mentioned the importance of understanding to the 
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 Here are some notes from my initial idea planning phase.
 ![Image](20200327_133130.jpg)
 ![Image](plan.jpg)
@@ -160,12 +155,28 @@ And here are my notes:
 ![Image](notes 1.jpg)
 
 Essentially,all I need to do now is modify the traffic lights to my project. This includes adding an on button and a buzzer.
-Code-wise, to make the on-off switch, I'm using the code from the micro:bit experiment kit.
+
+
+I now had to apply the temperature readings to the lights. I set the temperature to a variable of the same name, and then added an 'if then else' statement for the three temperature ranges.
+To figure out what the temperature threshold had to be, I brought a thermometre into the bathroom and had a shower without the fan on to see what temperature the alarm would go off. (I had a chair under the alarm to be ready) After a very stressful experiment, the thermometre read about 36 degrees celsius. So I am going to use this data for my project. If I had to re-do this in the future, I would do more experiments, as well as experiments with a dryer. But for the sake of a prototype, this data will do. 
+
+I was then a little stumped. I knew how to create greater than and equal to statements but didn't know how to say something was in the middle of two of them. I took a look at the Neopixel thermometre listed in the projects above, since that seemed to work in ranges. That project was using Arduino code, so I couldn't understand it fully, but I did see this, confirming that there probably was a way to do what I wanted:
+ # (tempF < 80.02 && tempF >= 70.5 #
+Then I looked through the micro:bit experiment guide to see if there was an experiment that did the same thing. There was! It was in javascript, so I looked the experiment up online, and translated the javascript back to blocks and discovered the 'and'. I found it on the micro:bit editor and put it into use!
+
+![Image](learntand.jpg)
+
+The data I inputted was:
+- green: <30
+- yellow: />30 and <36
+- red: anything else
+
+I then had the problem where the red LED would automatically turn on and the other lights would work as normal. I then realised I needed to make sure the variable for the red LED was set to 0 when not in use. This fixed the problem. 
+
+I added the button. Code-wise, to make the on-off switch, I'm using the code from the micro:bit experiment kit.
 ![Image](onoffcode.jpg)
 However, for some reason whenever I pressed the button, these three LEDs on the micro:bit would appear and the lights wouldn't work.
 ![Image](20200326_095133.jpg)
-
-
 I did some research, and found this discussion:
 https://forum.micropython.org/viewtopic.php?t=2210
 Whilst I didn't understand everything in this forum discussion, which was talking about micropython, the initial poster had a similar problem with the three LEDs randomly displaying. Whilst I couldn't find a complete solution, the contributors did mention that the problem likely had something to do with the pins, so I'm going to take a closer look at those.
@@ -175,12 +186,15 @@ The only thing differentiating this project electronically from the traffic ligh
 After removing the button and button-related code, the LED problem went away but nothing seemed to happen at all, when the green light should be on. After taking another look at the code, however, I realised that the code was still expecting the 'on' variable to be 1, even though there was no way for it to become '1' because the button was removed.
 ![Image](on statement.jpg)
 
-Success! The yellow light is on! I now know that the section of the code that comandeers the lights is working. To test the lights further, I put the whole thing close to the kettle which had just boiled, to feel the warm air near the kettle. The red light turned on, but the yellow light stayed on. I then opened the freezer door and held the micro:bit near the cold for a bit; the green light turned on, but the rest of the lights remained on, too. After I moved back to my table, the green light eventually turned off.
+Success! The yellow light is on! I now know that the section of the code that comandeers the lights is working. To test the lights further, I put the whole thing close to the kettle which had just boiled, to feel the warm air near the kettle. The red light turned on, but the yellow light stayed on. I then opened the freezer door and held the micro:bit near the cold for a bit to cool it back down to room temp; the green light turned on, but the rest of the lights remained on, too. After I moved back to my table, the green light eventually turned off.
 What this tells me:
  - I need to take another look at the coding for the temperatures. I must have made an error somewhere.
- - The temperatures I've inputted are impractical, and will need to be changed. 
+
  ![Image](pin mixup.jpg)
  It turns out I accidentally selected 'P2' instead of 'P1'.
+ 
+ I added the button again in an attempt to fix it, but just ended up with the three LED problem. I have spent a long time looking online for a solution and just can't find one. I also switched the LEDs to different pin numbers to leave P0 free for the button, but the same error came up. Since it's a pin problem, I believe that all LEDs need to be on the main pins (P0, P1, P2). However, even if I get rid of the button - and I think I will - I still need P0 for the buzzer. If I was more confident in my circuitry, I would be able to find a solution, but I don't think I have the time to find that out, since it's more complicated than a simple error. So I'm going to remove the middle light. I would prefer not to as it adds a layer of complexity to the project (and would get rid of the 'and' that I spent so long trying to find) but in order for the project to be complete I have to do it. 
+ 
 ## Project outcome ##
 
 *Complete the following information.*
