@@ -81,7 +81,9 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before:
+
+I imagined a designer to be purely conceptual, someone who writes and draws up plans to give to someone else to create.
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
@@ -94,6 +96,8 @@ This project is related to mine because (insert reasons here).
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+I learnt that being a designer entails actually creating a prototype of the product, with all the coding and technical knowledge that comes with. It wals really interesting to learn about the designer skillset, which I previously had no idea of, which has to be large to complete a project, but is powered by curiosity. I also learnt that the skills involved with being a designer are constantly evolving, as well as your projects. The most impactful part was reading in the case study about the author learning to use Processing.There have been many occasions where I was too intimidated to learn new programs and coding languages because I always feel like I'm starting from nowhere, and aren't smart enough to grasp these complex concepts I read about. However, in the article, the author mentions they had to spend a "couple of hours of installing libraries and looking up error messages in Google". Whilst, consciously, I always knew that everyone had to start from somewhere, the fact that this very accomplished and successful person was googling error codes really made it sink it. The fact that most of your knowledge will come from learning from the online community is really reassuring, even as a professional, is really reassuring, and has changed how I see designers. 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
