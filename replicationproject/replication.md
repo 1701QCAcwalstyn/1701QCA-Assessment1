@@ -128,10 +128,11 @@ In this project, I am planning on creating a connection between temperature and 
 ## Process documentation
 
 Here are some notes from my initial idea planning phase.
-![Image](20200327_133130.jpg)
+![Image](20200327_144112.jpg)
 ![Image](plan.jpg)
 
 Since I wanted to include three flashing lights, I searched for some projects that would use them to base my research off of. I ended up finding [this](https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard?view=all) one. I wrote more information about it in the project research above. I also replicated the project below.
+
 ![Image](20200323_175004.jpg)
 ![Image](traffic.jpg)
  
