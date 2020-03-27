@@ -213,26 +213,37 @@ Here are some designs I've made for the box.
 Whilst dismantling the box, I realised that it was joined with other pieces of cardboard, so I am doing the same. However, I don't have any hot glue or super glue, so I'm going to use sticky tape and staples. Sticky tape wasn't powerful enough, but on a trial piece of cardboard I found that staples were perfect. I'm going to add a small strip of cardboard to the front and back of each corner. 
 
 ![Image](20200326_153450.jpg)
+Cut out the bottom of the holding box. To create creases, I am using a ruler, otherwise the cardboard is too hard to fold accurately. 
 ![Image](20200326_153602.jpg)
+Strip for the supporting corner pieces.
 ![Image](20200326_170634.jpg)
+A close up of a corner.
 ![Image](20200326_180609.jpg)
+Whilst cutting out the lid, I realised it was too high up for the button to be pressed. So, I've made a button out of cardboard circles stacked on top of each other and attached with tape circled around to be double-sided.
 ![Image](20200326_180748.jpg)
+
+This is kind of weird, but it worked. I needed a precise location to cut out a hole for the lights. So I put bits of clumpy glue on each light and lightly pressed the lid onto it. It worked! 
+![Image](20200326_202941.jpg)
+![Image](20200326_203738.jpg)
+
+It's done!!!!!!!!!!!
+![Image](20200327_170726.jpg)
+
 
 ## Project outcome ##
 
-*Complete the following information.*
 
 ### Project title ###
-
+Pre-Sensor
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+This is a sensor to prevent false positive smoke sensor alerts. Particularly useful for 
 
 ### Showcase image ###
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](20200327_170726.jpg)
 
 ### Additional view ###
 
