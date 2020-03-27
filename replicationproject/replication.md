@@ -61,8 +61,12 @@ This project is related to mine because I am now planning on using three lights 
 ### Related project 6 ###
 BBC Micro:bit – Water on the Floor - Sensor Alarm
 
+https://www.element14.com/community/community/stem-academy/microbit/blog/2018/10/18/project-bbc-microbit-water-on-the-floor-sensor-alarm
 
-I like the idea of using the temperature gauge instead as an alarm of some sort.
+![Image](water.jpg)
+
+I like the idea of using the temperature gauge instead as an alarm of some sort. This project was inspired by some whose sink constantly leaked, and needed a way to let themselves know that it leaked before it floods the cupboard. I think I could do something similar but with temperature.
+
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
