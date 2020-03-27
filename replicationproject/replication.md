@@ -134,7 +134,7 @@ Here are some notes from my initial idea planning phase.
 Since I wanted to include three flashing lights, I searched for some projects that would use them to base my research off of. I ended up finding [this](https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard?view=all) one. I wrote more information about it in the project research above. I also replicated the project below.
 
 ![Image](20200323_175004.jpg)
-![Image](traffic.jpg)
+![Image](traffic.JPG)
  
 My current idea is to create a temperature detector using LEDs as visual communicators of the temperature. This project will be a small, rectangular box, which will, in the final product, be made of a weather-proof plastic, and will have anti-slip stoppers. Its purpose is to be placed on an outdoor table or windowsill, in the view of a window, for a quick look at what the temperature is outside. This is mainly for choosing outfits - should I wear something warmer today, or something colder? I often find that, even though it is so easy to step outside onto a balcony, I usually just guess what the temperature is like and dress appropriately, causing many situations where I'd leave the house and end up sweating or freezing. This product has to be so simple that its easier than walking outside or looking the temperature up on Google, so I made it a simple visual cue. Whilst I only have certain coloured LEDs, in an idealised product the colours would be: red for warm, yellow for room temperature and blue for cold. However, I will substitute green in for blue. 
 I plan on using the micro:bit, breadboard and alligator clips to make the box as portable as possible. I will also need to design with the jumper cables attached to the breadboard in mind.
@@ -143,8 +143,8 @@ I plan on using the micro:bit, breadboard and alligator clips to make the box as
 
 I would like to have the micro:bit visible on the side to use the A button as an on/off switch, and also to display the temperature on the screen. However, I need to use the B button for something, and I wasn't sure what. I then remembered the Baby G watch and its animals that came onscreen from pressing a button (more info in the 'related projects' section. Since this project is more ornamental, such a feature could suit it. It is always fun to be able to customise things, and I could imagine the potential within social media to pair a particularly hot or cold temperature with a sad or happy face on a photo. It could also just make for some cute decoration: when you don't want to see the temperature, having a box sporting a love heart on your window sill would be really cute. I'm not too confident in the idea, but I know that for myself, I would love that feature a lot.
 Here's the code!
-![Image](emoji1.jpg)
-![Image](emoji2.jpg)
+![Image](emoji 1.jpg)
+![Image](emoji 2.jpg)
 
 Surprise! Due to a change in livng circumstances, I no longer have access to alligator clips, so I'm going to have to rework my design a bit to accomadate for the prototyping plate.
 I've decided instead to create a form of pre-smoke detector. Whilst most homes come with a fan for the bathroom, the aparmtment I moved into in Brisbane didn't, so I have had a couple of run-ins with the smoke detector. This becomes even more of a problem in an apartment complex, where if I didn't turn it off fast enough, the whole complex would have to be evacuated. Alarms can also irritate the other people you live with, and pets if you have them. This also can be useful for if you forget to turn the fan on, or particularly, warning the user when the dryer is too hot. Essentially, it's another smoke detector, but with a lower temperature threshold to prevent the louder alarm from ringing due to false positives.
@@ -251,6 +251,9 @@ This is a sensor to prevent false positive smoke sensor alerts. This project is 
 ### Additional view ###
 Its compact design means it can even fit in small spaces, making it unobtrusive and easily a part of the users lifestyle.
 ![Image]20200327_200845.jpg)
+
+## Link to video ###
+https://vimeo.com/401314227
 
 ### Reflection ###
 
