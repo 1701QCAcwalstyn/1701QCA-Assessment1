@@ -208,6 +208,16 @@ It's done! Here is the final code and circuitry.
 ![Image](20200326_135419.jpg)
 ![Image](finalcode.jpg)
 
+Now to make the box.
+Here are some designs I've made for the box.
+Whilst dismantling the box, I realised that it was joined with other pieces of cardboard, so I am doing the same. However, I don't have any hot glue or super glue, so I'm going to use sticky tape and staples. Sticky tape wasn't powerful enough, but on a trial piece of cardboard I found that staples were perfect. I'm going to add a small strip of cardboard to the front and back of each corner. 
+
+![Image](20200326_153450.jpg)
+![Image](20200326_153602.jpg)
+![Image](20200326_170634.jpg)
+![Image](20200326_180609.jpg)
+![Image](20200326_180748.jpg)
+
 ## Project outcome ##
 
 *Complete the following information.*
