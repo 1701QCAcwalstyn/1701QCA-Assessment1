@@ -127,8 +127,15 @@ I really liked how the reading mentioned the importance of understanding to the 
 *This should have quite a lot of information!*
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+Here are some notes from my initial idea planning phase.
+![Image](20200327_133130.jpg)
+![Image](plan.jpg)
+![Image](notes2.jpg)
 
-Since I wanted to include three flashing lights, I searched for some projects that would use them to base my research off of. I ended up finding [this](https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard?view=all) one. 
+
+Since I wanted to include three flashing lights, I searched for some projects that would use them to base my research off of. I ended up finding [this](https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard?view=all) one. I wrote more information about it in the project research above. I also replicated the project below.
+![Image](20200327_133130.jpg)
+![Image](20200327_133130.jpg)
 
 
 However, due to a change in circumstances I no longer had access to alligator clips, so I had to repurpose my design to either include the micro:bit at the
