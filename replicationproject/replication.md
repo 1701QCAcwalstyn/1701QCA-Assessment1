@@ -254,10 +254,11 @@ Its compact design means it can even fit in small spaces, making it unobtrusive 
 I believe that my project was functoning and decently fabricated, considering it is a prototype and the limited materials I had on hand. I'm quite proud of how I made the outer casing fit and support the micro:bit. However, I do believe the project is somewhat lacking in complexity, and if I had a better understanding of circuitry I would have been able to include the middle light. I also would have preferred to have access to tools like alligator clips so the physical box would not have to look as clunky to facilitate the prototyping plate.
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
+Through the NeoPixel project I learnt the 'and' feature of the micro:bit coding. I was inspired to do a prevantative sensnor from the water sensor project. Inspired by the Baby G watch, I made a pretty cool seriers of emojis that changed on button press, but it's a shame it wasn't needed in the final product. 
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
+The Lovebox project definitely inspired me to think about how to interact with a project. https://en.lovebox.love/
+I've also watched a lot of videos from the Youtube channel Technology Connections. https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q. They talk about how various technologies work, and it has been very interesting to watch.
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
 An interesting extension of this project would definitely be to add humidity sensors. Whilst it functions perfectly with the dryer, it has limited functionality in the shower, since it is based on the relationship heat has with steam levels, not the actual temperature. Adding a humidity sensor would test the amount of vapour in the air - which is what actually sets off the smoke detector - and would make the project far more effective.
