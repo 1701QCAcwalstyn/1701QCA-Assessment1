@@ -101,7 +101,7 @@ I've been aware of the importance of small details for products for a while, lik
 *What I would like to know more about:*
 I would like to learn more about different types of microinteractions to use for my projects and how to implement them. Next time I find a cool project I'm interested in, I will need to have a closer look at the microinteractions they implement. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on:*
 
 This really makes me consider the user's point of view. For every component I design, I need to think about how it would affect the user: postively, negatively, or not at all.
 
@@ -122,7 +122,7 @@ I really liked how the reading mentioned the importance of understanding to the 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](chart.jpg)
 
 ## Process documentation
 
