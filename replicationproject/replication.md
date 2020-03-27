@@ -194,7 +194,20 @@ What this tells me:
  It turns out I accidentally selected 'P2' instead of 'P1'.
  
  I added the button again in an attempt to fix it, but just ended up with the three LED problem. I have spent a long time looking online for a solution and just can't find one. I also switched the LEDs to different pin numbers to leave P0 free for the button, but the same error came up. Since it's a pin problem, I believe that all LEDs need to be on the main pins (P0, P1, P2). However, even if I get rid of the button - and I think I will - I still need P0 for the buzzer. If I was more confident in my circuitry, I would be able to find a solution, but I don't think I have the time to find that out, since it's more complicated than a simple error. So I'm going to remove the middle light. I would prefer not to as it adds a layer of complexity to the project (and would get rid of the 'and' that I spent so long trying to find) but in order for the project to be complete I have to do it. 
- 
+  
+![Image](20200326_135202.jpg)
+
+I've changed the on/off switch instead to be the A button on the micro:bit.
+
+All I need to do now is add the buzzer.
+![Image](middlec.jpg)
+The problem here is, once the required temperature was reached, the buzzer would not stop ringing. After looking up some discussions online, I realised I should just put in a 'stop melody' block. Which worked!
+![Image](stop.jpg)
+
+It's done! Here is the final code and circuitry.
+![Image](20200326_135419.jpg)
+![Image](finalcode.jpg)
+
 ## Project outcome ##
 
 *Complete the following information.*
