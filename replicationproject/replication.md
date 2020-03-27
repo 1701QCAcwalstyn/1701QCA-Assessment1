@@ -59,12 +59,10 @@ https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard?vie
 This project is related to mine because I am now planning on using three lights in a similar format. I have replicated this project as a beginning platform for my project to evolve from. 
 
 ### Related project 6 ###
-Traffic lights
-
-https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard?view=all
+BBC Micro:bit – Water on the Floor - Sensor Alarm
 
 
-This project is related to mine because it involves LEDs, which I am planning on using.
+I like the idea of using the temperature gauge instead as an alarm of some sort.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
@@ -107,7 +105,10 @@ This really makes me consider the user's point of view. For every component I de
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned:*
+
+I really liked how the reading mentioned the importance of understanding to the user.
+ Whilst before the reading I was aware feedback was important, I did not know the danger of badly-implemented feedback. (Such as overwhelming lights and noises etc.) Conceptual models was something I previously had little to no knowledge about. I now know that how you represent information is about constructing a fake, simpler, easy to understand model to present to your user. Hence, I suppose, the name 'conceptual model'. It is very unlikely a user will understand precisely how your project works, or will even want/need to know. So it is important to create an analogy to explain it, in a way that's intuitive. It is also critical that this analogy is correct. If it falls apart in some aspects, it will result in confusion of the user because the technology did not work in the way they expected it to. A critical part of design is telling users how to use the technology, with as little handbook guidance as possible. 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
