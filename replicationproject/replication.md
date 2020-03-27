@@ -45,6 +45,10 @@ https://create.arduino.cc/projecthub/Dan/weather-wand-c100cb?ref=tag&ref_id=temp
 
 This project is related to mine because it uses temperature readings, but in a really interesting and creative way. In its description, the creator mentions the project being: "[A way] to make the invisible visible." The project involves a Neopixel LED attached to a stick, which the creator used to draw patterns in the air. However, a temperature sensor attached also to the stick detected the temperature, and this was turned into a value that created the colour of the stick. The creator then drew patterns in the air with it. I like the use of the Neopixels, and it's making me consider what I can do with light and temperature. 
 This project also demonstrates the effects of a higher temperature by placing the project near an oven. I might do the same. 
+
+### Related project 5 ###
+
+When I was in primary school one of my friends had one of these things and I was obsessed with it. When you pressed a button, a random animal showed up. There was nothing I found more entertaining, which possibly said more about me than the watch. Regardless, I think there’s something interesting there about displays that typically don’t show fun things being able to do so when you press a button. I’ve noticed the micro:bit includes various prebuilt emojis, so perhaps I could use them.
 ### Related project 5 ###
 Traffic Lights
 
@@ -69,15 +73,20 @@ This project is related to mine because it involves LEDs, which I am planning on
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before:
+*What I thought before:*
 
 I imagined a designer to be purely conceptual, someone who writes and draws up plans to give to someone else to create.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned:*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I learnt that being a designer entails actually creating a prototype of the product, with all the coding and technical knowledge that comes with. It wals really interesting to learn about the designer skillset, which I previously had no idea of, which has to be large to complete a project, but is powered by curiosity. I also learnt that the skills involved with being a designer are constantly evolving, as well as your projects. The most impactful part was reading in the case study about the author learning to use Processing.There have been many occasions where I was too intimidated to learn new programs and coding languages because I always feel like I'm starting from nowhere, and aren't smart enough to grasp these complex concepts I read about. However, in the article, the author mentions they had to spend a "couple of hours of installing libraries and looking up error messages in Google". Whilst, consciously, I always knew that everyone had to start from somewhere, the fact that this very accomplished and successful person was googling error codes really made it sink it. The fact that most of your knowledge will come from learning from the online community is really reassuring, even as a professional, is really reassuring, and has changed how I see designers. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*What I would like to know more about:*
+I'd really like to learn more about the blob-tracking technology that was mentioned. It sounded really interesting. 
+
+*How this relates to the project I am working on:*
+This reading, in particular the case study, has taught me the value of the process of projects. I really do need to use all the resources online that I can to constantly be trying to improve my project, because there is always small room for improvement. 
+
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
@@ -85,11 +94,14 @@ I imagined a designer to be purely conceptual, someone who writes and draws up p
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
-I learnt that being a designer entails actually creating a prototype of the product, with all the coding and technical knowledge that comes with. It wals really interesting to learn about the designer skillset, which I previously had no idea of, which has to be large to complete a project, but is powered by curiosity. I also learnt that the skills involved with being a designer are constantly evolving, as well as your projects. The most impactful part was reading in the case study about the author learning to use Processing.There have been many occasions where I was too intimidated to learn new programs and coding languages because I always feel like I'm starting from nowhere, and aren't smart enough to grasp these complex concepts I read about. However, in the article, the author mentions they had to spend a "couple of hours of installing libraries and looking up error messages in Google". Whilst, consciously, I always knew that everyone had to start from somewhere, the fact that this very accomplished and successful person was googling error codes really made it sink it. The fact that most of your knowledge will come from learning from the online community is really reassuring, even as a professional, is really reassuring, and has changed how I see designers. 
+I've been aware of the importance of small details for products for a while, like how things as simple as font choices can impact one's interaction with a program, but never had any idea to the extent of that importance. The idea of a product being simply a microinteraction is really interesting, and not something I had even considered before. I also now know more details about how microinteractions work, their process, . The idea of feedback was really interesting, with how rules are invisible unless specified. There's something really interesting about how designers need to, using culturally understood symbols and relationships, communicate a message as simply as possible. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about:*
+I would like to learn more about different types of microinteractions to use for my projects and how to implement them. Next time I find a cool project I'm interested in, I will need to have a closer look at the microinteractions they implement. 
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+This really makes me consider the user's point of view. For every component I design, I need to think about how it would affect the user: postively, negatively, or not at all.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
@@ -115,7 +127,9 @@ I learnt that being a designer entails actually creating a prototype of the prod
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-Since I wanted to include three flashing lights, I searched for some projects that would use them to base my researchf off of. I ended up finding [this](https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard?view=all) one
+Since I wanted to include three flashing lights, I searched for some projects that would use them to base my research off of. I ended up finding [this](https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard?view=all) one. 
+
+
 However, due to a change in circumstances I no longer had access to alligator clips, so I had to repurpose my design to either include the micro:bit at the
 
 Here is my research on smoke detectors:
