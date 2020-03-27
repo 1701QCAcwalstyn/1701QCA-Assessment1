@@ -138,9 +138,9 @@ Since I wanted to include three flashing lights, I searched for some projects th
  
 My current idea is to create a temperature detector using LEDs as visual communicators of the temperature. This project will be a small, rectangular box, which will, in the final product, be made of a weather-proof plastic, and will have anti-slip stoppers. Its purpose is to be placed on an outdoor table or windowsill, in the view of a window, for a quick look at what the temperature is outside. This is mainly for choosing outfits - should I wear something warmer today, or something colder? I often find that, even though it is so easy to step outside onto a balcony, I usually just guess what the temperature is like and dress appropriately, causing many situations where I'd leave the house and end up sweating or freezing. This product has to be so simple that its easier than walking outside or looking the temperature up on Google, so I made it a simple visual cue. Whilst I only have certain coloured LEDs, in an idealised product the colours would be: red for warm, yellow for room temperature and blue for cold. However, I will substitute green in for blue. 
 I plan on using the micro:bit, breadboard and alligator clips to make the box as portable as possible. I will also need to design with the jumper cables attached to the breadboard in mind.
-![Image](20200327_144121 (2).jpg
-![Image](plan.jpg)
-![Image](notes2.jpg)
+
+![Image](20200327_144121 (2).jpg)
+
 I would like to have the micro:bit visible on the side to use the A button as an on/off switch, and also to display the temperature on the screen. However, I need to use the B button for something, and I wasn't sure what. I then remembered the Baby G watch and its animals that came onscreen from pressing a button (more info in the 'related projects' section. Since this project is more ornamental, such a feature could suit it. It is always fun to be able to customise things, and I could imagine the potential within social media to pair a particularly hot or cold temperature with a sad or happy face on a photo. It could also just make for some cute decoration: when you don't want to see the temperature, having a box sporting a love heart on your window sill would be really cute. I'm not too confident in the idea, but I know that for myself, I would love that feature a lot.
 Here's the code!
 ![Image](emoji1.jpg)
