@@ -55,6 +55,7 @@ https://create.arduino.cc/projecthub/Dan/weather-wand-c100cb?ref=tag&ref_id=temp
 ![Image](weather wand.jpg)
 
 This project is related to mine because it uses temperature readings, but in a really interesting and creative way. In its description, the creator mentions the project being: "[A way] to make the invisible visible." The project involves a Neopixel LED attached to a stick, which the creator used to draw patterns in the air. However, a temperature sensor attached also to the stick detected the temperature, and this was turned into a value that created the colour of the stick. The creator then drew patterns in the air with it. I like the use of the Neopixels, and it's making me consider what I can do with light and temperature. 
+This project also demonstrates the effects of a higher temperature by placing the project near an oven. I might do the same. 
 ### Related project 6 ###
 Traffic Lights
 
@@ -122,9 +123,13 @@ This project is related to mine because (insert reasons here).
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
+Since I wanted to include three flashing lights, I searched for some projects that would use them to base my researchf off of. I ended up finding [this](https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard?view=all) one
 However, due to a change in circumstances I no longer had access to alligator clips, so I had to repurpose my design to either include the micro:bit at the
 
-At this point I realised 
+Here is my research on smoke detectors:
+https://www.nfpa.org/Public-Education/Staying-safe/Safety-equipment/Smoke-alarms/Ionization-vs-photoelectric
+https://ifpmag.mdmpublishing.com/alarmed-about-steam/
+https://homeguides.sfgate.com/steam-make-smoke-detector-off-85036.html
 
 ![Image](missingimage.png)
 
