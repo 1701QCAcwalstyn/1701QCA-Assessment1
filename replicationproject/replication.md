@@ -115,9 +115,10 @@ I really liked how the reading mentioned the importance of understanding to the 
  Whilst before the reading I was aware feedback was important, I did not know the danger of badly-implemented feedback. (Such as overwhelming lights and noises etc.) Conceptual models was something I previously had little to no knowledge about. I now know that how you represent information is about constructing a fake, simpler, easy to understand model to present to your user. Hence, I suppose, the name 'conceptual model'. It is very unlikely a user will understand precisely how your project works, or will even want/need to know. So it is important to create an analogy to explain it, in a way that's intuitive. It is also critical that this analogy is correct. If it falls apart in some aspects, it will result in confusion of the user because the technology did not work in the way they expected it to. A critical part of design is telling users how to use the technology, with as little handbook guidance as possible. 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I would like to know more about well-implemented feedback, to model in my own project.
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
+In this project, I am planning on creating a connection between temperature and LEDs. To create my device, I will be keeping it simple by just having the three lights as the main interaction.
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
@@ -129,8 +130,6 @@ I really liked how the reading mentioned the importance of understanding to the 
 Here are some notes from my initial idea planning phase.
 ![Image](20200327_133130.jpg)
 ![Image](plan.jpg)
-
-
 
 Since I wanted to include three flashing lights, I searched for some projects that would use them to base my research off of. I ended up finding [this](https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard?view=all) one. I wrote more information about it in the project research above. I also replicated the project below.
 ![Image](20200323_175004.jpg)
